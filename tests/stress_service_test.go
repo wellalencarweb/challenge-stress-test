@@ -1,9 +1,8 @@
 package tests
 
 import (
-	"testing"
 	"challenge-stress-test/internal/application"
-	"challenge-stress-test/internal/domain"
+	"testing"
 )
 
 type MockRunner struct{}
